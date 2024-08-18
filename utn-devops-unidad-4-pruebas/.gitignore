@@ -1,0 +1,5 @@
+.vagrant
+.Vagrantfile
+.Vagrant.bootstrap.sh
+ubuntu-bionic-18.04-cloudimg-console.log
+readme-notesforupload.txt
